@@ -5,7 +5,7 @@ require 'date'
 
 weights = {
   saluhallen: 3,
-  cental_station: 3,
+  central_station: 3,
   gustav_adolfs_torg: 2,
   lilla_torg: 2,
   grabrodersgatan: 2,
