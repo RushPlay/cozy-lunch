@@ -16,7 +16,8 @@ weights = {
   kyoto: 1,
   namu: 1,
   radhuskallaren: 1,
-  niagara: 1
+  niagara: 1,
+  spot: 1
 }
 
 bag = weights.inject([]) { |a, (k, v)| a += [k] * v }
